@@ -1,0 +1,2 @@
+# Resgister-Number-Plate-Recognition-System
+I made a software by using image processing techniques through Matlab. The software works as first it loads the image into Matlab, then converts the RGB image into gray and apply the Morphological processing dilate and erosion and converts the image into binary image. It then detects the edges and characters segmentation. The read characters are matched with the characters from data base and record of the found vehicle is shown. 
